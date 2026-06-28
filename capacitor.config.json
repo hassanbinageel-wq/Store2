@@ -1,0 +1,11 @@
+{
+  "appId": "com.hsnpmt.matjari",
+  "appName": "متجري",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "matjari",
+  "version": "1.0.0",
+  "description": "متجري — نظام إدارة المبيعات والمخزون (Offline)",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2",
+    "@capacitor-community/contacts": "^6.1.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/assets": "^3.0.5"
+  }
+}
